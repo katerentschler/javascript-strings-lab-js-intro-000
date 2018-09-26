@@ -15,3 +15,5 @@ var conversation = `Let's talk about ${topic}.`
 console.log(greetSpecialGuest)
 var greetSpecGuest = `Hello, ${specialGuest}!`
 var conversation = `Let's talk about ${topic}.`
+return greetSpecialGuest
+var greetSpecialGuest = `Hello, ${specialGuest}!`
